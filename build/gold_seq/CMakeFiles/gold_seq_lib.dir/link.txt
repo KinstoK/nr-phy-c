@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgold_seq_lib.a CMakeFiles/gold_seq_lib.dir/gold_seq.c.o
+/usr/bin/ranlib libgold_seq_lib.a

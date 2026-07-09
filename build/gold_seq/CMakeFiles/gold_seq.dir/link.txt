@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/gold_seq.dir/link.d CMakeFiles/gold_seq.dir/test_gold_seq.c.o -o gold_seq  libgold_seq_lib.a -lm

@@ -1,0 +1,11 @@
+当你需要添加一个新的模块（比如 new_module）时：
+
+创建文件夹 new_module/。
+在该文件夹中创建 CMakeLists.txt，内容与上述模板相同（将 gold_seq 替换为 new_module）。
+在根 CMakeLists.txt 中添加一行：add_subdirectory(new_module)。
+不需要修改任何 VS Code 配置。
+在 VS Code 中重新配置 CMake（Ctrl+Shift+P → CMake: Configure，或者直接按 F5，CMake Tools 会自动提示重新配置）。
+打开 new_module/test_new_module.c，按 F5，VS Code 会自动编译并停在 main 入口。
+完全无需手动修改 launch.json 或 tasks.json。
+
+以后每当你添加新的源文件（.c）到模块中，都需要在对应的模块文件夹（不是顶层）中的 CMakeLists.txt 中显式地添加进去add_library。CMake 不会自动扫描目录下的所有源文件。

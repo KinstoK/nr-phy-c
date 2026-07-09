@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/kinston/nr-phy-c/build/gold_seq",
+  "command": "/usr/bin/gcc  -I/home/kinston/nr-phy-c/gold_seq -g -std=gnu11 -o CMakeFiles/gold_seq_lib.dir/gold_seq.c.o -c /home/kinston/nr-phy-c/gold_seq/gold_seq.c",
+  "file": "/home/kinston/nr-phy-c/gold_seq/gold_seq.c",
+  "output": "gold_seq/CMakeFiles/gold_seq_lib.dir/gold_seq.c.o"
+},
+{
+  "directory": "/home/kinston/nr-phy-c/build/gold_seq",
+  "command": "/usr/bin/gcc  -I/home/kinston/nr-phy-c/gold_seq -g -std=gnu11 -o CMakeFiles/gold_seq.dir/test_gold_seq.c.o -c /home/kinston/nr-phy-c/gold_seq/test_gold_seq.c",
+  "file": "/home/kinston/nr-phy-c/gold_seq/test_gold_seq.c",
+  "output": "gold_seq/CMakeFiles/gold_seq.dir/test_gold_seq.c.o"
+}
+]

@@ -1,0 +1,4 @@
+{
+    "cmake.autoselectTargetFiles": true,
+    "cmake.buildDirectory": "${workspaceFolder}/build"
+}

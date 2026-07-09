@@ -1,0 +1,2 @@
+# CMAKE generated file: DO NOT EDIT!
+# Timestamp file for compiler generated dependencies management for gold_seq_lib.

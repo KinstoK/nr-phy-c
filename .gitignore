@@ -1,0 +1,7 @@
+  build/
+  *.o
+  *.out
+  *.exe
+  *gold_seq
+  *test_gold_seq
+  *Zone.Identifier

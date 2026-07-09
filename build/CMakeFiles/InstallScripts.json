@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kinston/nr-phy-c/build/cmake_install.cmake",
+		"/home/kinston/nr-phy-c/build/gold_seq/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

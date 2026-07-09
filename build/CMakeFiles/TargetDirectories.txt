@@ -1,0 +1,6 @@
+/home/kinston/nr-phy-c/build/CMakeFiles/edit_cache.dir
+/home/kinston/nr-phy-c/build/CMakeFiles/rebuild_cache.dir
+/home/kinston/nr-phy-c/build/gold_seq/CMakeFiles/gold_seq_lib.dir
+/home/kinston/nr-phy-c/build/gold_seq/CMakeFiles/gold_seq.dir
+/home/kinston/nr-phy-c/build/gold_seq/CMakeFiles/edit_cache.dir
+/home/kinston/nr-phy-c/build/gold_seq/CMakeFiles/rebuild_cache.dir
